@@ -29,3 +29,8 @@ e2e-results/
 # Editor
 .idea
 
+# from here: https://github.com/grafana/grafana-plugin-examples/blob/master/.gitignore
+.vscode
+node_modules
+**/cypress/videos
+**/cypress/report.json
